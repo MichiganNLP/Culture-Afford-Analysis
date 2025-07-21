@@ -1,0 +1,271 @@
+,topic,function_low,function_high
+0,family snapshots,0.12,0.32
+1,cutlery,0.39,0.52
+2,family,0.63,0.48
+3,place where eating dinner,0.03,0.17
+4,plate of food,0.33,0.47
+5,table with food,0.09,0.04
+6,get water,0.07,0.02
+7,stove/hob,0.24,0.47
+8,light source in kitchen,0.12,0.33
+9,drinking water,0.08,0.17
+10,kitchen sink,0.06,0.45
+11,bathroom privacy,0.03,0.14
+12,backyard,0.05,0.39
+13,front door,0.3,0.6
+14,home,0.01,0.01
+15,source of cool,0.28,0.4
+16,street view,0.09,0.22
+17,teeth,0.0,0.0
+18,hand back,0.01,0.06
+19,hand palm,0.62,0.77
+20,pet,0.02,0.05
+21,bedroom,0.06,0.13
+22,grains,0.41,0.31
+23,wardrobe,0.06,0.25
+24,armchair,0.24,0.41
+25,hallway,0.09,0.15
+26,kitchen,0.24,0.54
+27,books,0.04,0.04
+28,everyday shoes,0.56,0.4
+29,hand washing,0.12,0.5
+30,trash/waste,0.06,0.1
+31,tools,0.13,0.16
+32,hair brush/comb,0.54,0.6
+33,street detail,0.14,0.41
+34,soap for hands and body,0.27,0.29
+35,shampoo,0.14,0.27
+36,vegetable plot,0.14,0.54
+37,roof,0.1,0.03
+38,toilet,0.24,0.3
+39,spices,0.19,0.34
+40,salt,0.16,0.21
+41,jewelry,0.11,0.22
+42,cooking utensils,0.2,0.32
+43,dish washing brush/cloth,0.05,0.25
+44,cooking pots,0.34,0.26
+45,plates,0.19,0.1
+46,cups/mugs/glasses,0.12,0.27
+47,wall,0.03,0.03
+48,cattle,0.11,0.0
+49,ceiling,0.09,0.37
+50,bed,0.08,0.29
+51,storage room,0.03,0.14
+52,refrigerator,0.15,0.13
+53,floor,0.26,0.27
+54,wall inside,0.23,0.19
+55,tooth paste,0.14,0.31
+56,toothbrush,0.15,0.27
+57,goats,0.61,1.0
+58,cleaning equipment,0.17,0.17
+59,cleaning after toilet,0.03,0.03
+60,visit,0.1,0.04
+61,hand open to closed,0.0,0.04
+62,brushing teeth,0.14,0.36
+63,using toilet,0.0,0.0
+64,doing dishes,0.02,0.16
+65,pouring drinking water,0.08,0.08
+66,pouring water,0.05,0.27
+67,starting stove,0.11,0.3
+68,cooking,0.08,0.02
+69,preparing food,0.0,0.0
+70,shoes,0.04,0.11
+71,washing hands,0.06,0.43
+72,walking to get water,0.23,0.0
+73,washing clothes/cleaning,0.08,0.24
+74,eating,0.0,0.02
+75,family eating,0.42,0.28
+76,vegetables,0.42,0.62
+77,smoke and steam exit,0.02,0.04
+78,fruits and vegetables,0.22,0.48
+79,toys,0.04,0.1
+80,nicest shoes,0.44,0.66
+81,mosquito protection,0.0,0.04
+82,wall decoration,0.03,0.21
+83,living room,0.08,0.45
+84,fruit trees,0.0,0.0
+85,toilet paper,0.08,0.33
+86,bathroom/toilet,0.03,0.01
+87,shaving,0.03,0.1
+88,lock on front door,0.49,0.77
+89,couch,0.18,0.17
+90,sofa,0.12,0.09
+91,knifes,0.17,0.22
+92,dish racks,0.1,0.44
+93,play area,0.01,0.1
+94,place where serving guests,0.07,0.28
+95,photo guide images,0.0,0.0
+96,agriculture land,0.34,0.0
+97,sitting area,0.11,0.25
+98,bed kids,0.25,0.14
+99,drying,0.0,0.0
+100,water outlet,0.01,0.06
+101,drainage,0.23,0.08
+102,shower,0.05,0.03
+103,house overview,0.0,0.0
+104,socializing,0.05,0.12
+105,playing,0.01,0.02
+106,kids playing outside,0.24,0.22
+107,chopping food,0.04,0.19
+108,chickens,0.58,0.55
+109,bike,0.0,0.0
+110,source of heat,0.19,0.26
+111,phone,0.24,0.15
+112,work area,0.0,0.0
+113,children room,0.07,0.31
+114,light source in livingroom,0.12,0.47
+115,washing detergent,0.06,0.3
+116,medication,0.08,0.06
+117,dish washing soap,0.17,0.55
+118,turning lights on and off,0.05,0.19
+119,source of light,0.08,0.23
+120,wall clock,0.64,0.8
+121,guest bed,0.17,0.12
+122,diapers (or baby-pants),0.14,0.03
+123,switch on/off,0.29,0.46
+124,pen/pencils,0.49,0.61
+125,paper,0.19,0.32
+126,rug,0.14,0.28
+127,bed_hq,0.0,0.0
+128,social drink,0.31,0.27
+129,carrying water,0.18,0.0
+130,light sources,0.08,0.26
+131,music equipment,0.17,0.2
+132,frontdoor keys,0.08,0.1
+133,lightsources by bed,0.17,0.16
+134,reading light,0.06,0.29
+135,necklaces,0.44,0.54
+136,earings,0.12,0.23
+137,cosmetics,0.18,0.26
+138,cleaning floors,0.16,0.06
+139,make up,0.0,0.01
+140,putting on make up,0.0,0.04
+141,chopping ingredients,0.09,0.12
+142,brushing hair,0.0,0.1
+143,taking a teaspoon of salt,0.11,0.28
+144,drinking social drink,0.06,0.07
+145,meat or fish,0.0,0.1
+146,replaced,0.0,0.0
+147,radio,0.18,0.28
+148,listening to the radio,0.0,0.0
+149,coins,0.0,0.0
+150,pet foods,0.29,0.07
+151,menstruation pads / tampax,0.09,0.11
+152,dinner guests,0.07,0.03
+153,nature sceneries,0.0,0.0
+154,worship places,0.06,0.05
+155,power outlet,0.31,0.22
+156,glasses or lenses,0.8,0.82
+157,adding spices to food while cooking,0.0,0.09
+158,presenting dollar street,0.0,0.0
+159,worshipping,0.2,0.29
+160,writing,0.13,0.04
+161,writing signature,0.06,0.02
+162,tv,0.32,0.27
+163,fishes,0.43,0.12
+164,bowls,0.0,0.0
+165,kids playing inside,0.0,0.04
+166,bills of money,0.0,0.0
+167,coats and jackets,0.08,0.21
+168,surroundings,0.0,0.0
+169,moped/motorcycle,0.0,0.06
+170,parking lot,0.14,0.42
+171,toothpaste on toothbrush,0.0,0.06
+172,wheel barrow,0.0,0.0
+173,waste dumps,0.14,0.12
+174,wedding photos,0.14,0.47
+175,ventilation,0.0,0.0
+176,milk cows or bulls,0.25,0.0
+177,answering the phone,0.0,0.0
+178,closing the front door,0.0,0.07
+179,hanging clothes to dry,0.0,0.0
+180,opening the front door,0.07,0.0
+181,reading,0.0,0.0
+182,reading a book,0.0,0.0
+183,seeing the back of book,0.0,0.0
+184,sleeping,0.0,0.05
+185,turning fan/ac on,0.0,0.0
+186,turning heater on,0.0,0.0
+187,walking towards front door,0.04,0.07
+188,"writing ""home""",0.0,0.0
+189,piercings,0.0,0.0
+190,fishing equipment,0.0,0.0
+191,arm watch,0.0,0.03
+192,soccer balls,1.0,0.0
+193,horse stables,0.0,0.0
+194,playgrounds,0.0,0.33
+195,drinks,0.0,0.0
+196,other transport,0.0,0.0
+197,car,0.0,0.0
+198,car decorations,0.0,0.0
+199,transport of heavy things,0.0,0.0
+200,clothes,0.0,0.0
+201,cigarettes,0.31,0.24
+202,portraits,0.0,0.0
+203,ingredients,0.0,0.0
+204,fields,0.0,0.0
+205,celebrity posters,0.0,0.0
+206,freezer,0.1,0.17
+207,boat,0.0,0.0
+208,arm watches,0.0,0.0
+209,sitting and watching tv,0.0,0.0
+210,plugging into and out of power outlet,0.25,0.41
+211,dishwasher,0.0,0.04
+212,oven,0.07,0.03
+213,baby powder,0.0,0.0
+214,tattoos,0.07,0.17
+215,sheep,0.0,0.0
+216,preparing social drink,0.0,0.0
+217,go through mail,0.0,0.0
+218,smoking,0.0,0.0
+219,walking through home,0.0,0.0
+220,computer,0.04,0.0
+221,contraceptives,0.0,0.05
+222,instrument,0.0,0.01
+223,rehabilitation technology,0.0,0.14
+224,turn tv on,0.0,0.09
+225,playing an instrument,0.0,0.27
+226,bread ready,0.0,0.0
+227,alcoholic drinks,0.18,0.14
+228,snacks,0.0,0.0
+229,alarm clock,0.0,0.05
+230,throwing food trash away,0.0,0.13
+231,car keys,0.33,0.71
+232,tractors,0.0,0.0
+233,opening and closing the refrigerator,0.11,0.0
+234,water sources,0.0,0.0
+235,opening and closing the freezer,0.0,0.02
+236,horses,0.0,0.0
+237,water sources for doing dishes,0.0,0.0
+238,soccer supporter items,0.0,0.0
+239,cooking food,0.0,0.0
+240,snack stores,0.0,0.0
+241,daylight ostructions,0.0,0.0
+242,smog/bad air breathing protection,0.0,1.0
+243,bad outdoor air obstructions,0.0,0.0
+244,skies outside,0.0,0.0
+245,sources of drinking water,0.0,0.0
+246,laying in bed - pretend to sleep,0.0,0.0
+247,newspapers,0.0,0.33
+248,elevators,0.0,0.0
+249,water purifier solutions,0.0,0.0
+250,air fresheners (scents,0.0,0.0
+251,smells),0.0,0.0
+252,air cleaning equipments,0.0,0.0
+253,foodstores,0.0,0.0
+254,markets,0.0,0.2
+255,picking up the phone,0.0,0.0
+256,bread - ready,0.0,0.0
+257,opening mail,0.0,0.0
+258,meat storages,0.0,0.0
+259,bread bowls,0.0,0.0
+260,disability aid,0.0,0.0
+261,electric wires,0.0,0.0
+262,tabloids,0.0,0.0
+263,equipment,0.0,0.0
+264,baking tools,0.0,0.0
+265,baking sheets,0.0,1.0
+266,baking tables,0.0,0.0
+267,electricity wires,0.0,0.0
+268,meat markets,0.0,0.0
+269,vegetable markets,0.0,0.0
